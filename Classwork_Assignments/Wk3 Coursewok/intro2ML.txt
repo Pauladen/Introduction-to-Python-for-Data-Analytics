@@ -1,0 +1,3 @@
+HOMEWORK
+
+Refer to WK3D2 material run a machine learning on the digits data set as found in scikit learn 
